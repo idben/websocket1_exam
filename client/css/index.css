@@ -1,0 +1,10 @@
+html, body{
+  height: 100%;
+}
+.main .left{
+  width: 250px;
+  margin-right: 10px;
+}
+.main .right{
+  width: calc(100% - 250px)
+}
